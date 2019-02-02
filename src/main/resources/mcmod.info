@@ -1,0 +1,20 @@
+[
+{
+  "modid": "igisereneseasons",
+  "name": "InGame Info XML Addon - Serene Seasons",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xalcon"],
+  "credits": "The Forge and FML guys, for making forge",
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "dependencies": [
+    "ingameinfoxml@[2.8.0.0,)",
+    "sereneseasons@[1.2.0.0,)"
+  ]
+}
+]
